@@ -1,4 +1,5 @@
 <?php
-echo "Hello";
+$i= "Php";
+echo 'Hello '.$i;
 
 ?>
